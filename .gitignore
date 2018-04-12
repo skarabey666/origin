@@ -1,5 +1,5 @@
 /bitrix/modules/*
 /bitrix/components/bitrix/*
-/bitrix/components/upload/*
-/bitrix/components/cache/*
-/bitrix/components/managed_cache/*
+/upload/*
+/bitrix/cache/*
+/bitrix/managed_cache/*
