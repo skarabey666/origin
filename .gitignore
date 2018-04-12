@@ -1,4 +1,4 @@
 /bitrix/modules/*
 /bitrix/components/bitrix/*
-/bitrix/components/cache/*
 /bitrix/components/upload/*
+/bitrix/components/cache/*
