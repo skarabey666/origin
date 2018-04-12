@@ -2,5 +2,4 @@
 /bitrix/components/bitrix/*
 /upload/*
 /bitrix/cache/*
-/bitrix/managed_cache/*
-/bitrix/managed_cache/MYSQL/*
+\bitrix\managed_cache\*
