@@ -1,7 +1,0 @@
-<?
-if($INCLUDE_FROM_CACHE!='Y')return false;
-$datecreate = '001523546685';
-$dateexpire = '001523550285';
-$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:6:{s:11:"code_editor";a:1:{s:5:"theme";s:5:"light";}s:18:"file_dialog_config";s:92:"s1;/bitrix/templates/aspro-stroy/components/bitrix/news.list/front-banners-big;list;type;asc";s:11:"last_pathes";s:464:"a:10:{i:0;s:16:"/o-kompanii/user";i:1;s:75:"/bitrix/templates/aspro-stroy/components/bitrix/news.list/front-banners-big";i:2;s:29:"/bitrix/templates/aspro-stroy";i:3;s:37:"/bitrix/templates/.default/components";i:4;s:26:"/bitrix/templates/.default";i:5;s:17:"/bitrix/templates";i:6;s:24:"/bitrix/components/aspro";i:7;s:42:"/bitrix/components/aspro/social.info.stroy";i:8;s:35:"/bitrix/components/aspro/form.stroy";i:9;s:36:"/bitrix/templates/aspro-stroy/themes";}";s:17:"medialib_user_set";s:9:"711,486,1";s:30:"taskbar_settings_FORM_TEMPLATE";s:250:"a:3:{s:19:"BXPropertiesTaskbar";a:3:{s:4:"show";b:1;s:3:"set";i:3;s:6:"active";b:1;}s:20:"BXComponents2Taskbar";a:3:{s:4:"show";b:1;s:3:"set";s:1:"2";s:6:"active";b:1;}s:21:"BXFormElementsTaskbar";a:3:{s:4:"show";b:1;s:3:"set";i:3;s:6:"active";b:1;}}";s:33:"taskbarset_settings_FORM_TEMPLATE";s:90:"a:2:{i:2;a:2:{s:4:"show";b:1;s:4:"size";i:200;}i:3;a:2:{s:4:"show";b:1;s:4:"size";i:225;}}";}}';
-return true;
-?>
