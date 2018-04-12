@@ -13,16 +13,28 @@ $arUrlRewrite = array(
 		"PATH" => "/bitrix/services/ymarket/index.php",
 	),
 	array(
+		"CONDITION" => "#^/company/licenses/#",
+		"RULE" => "",
+		"ID" => "bitrix:news",
+		"PATH" => "/company/licenses/index.php",
+	),
+	array(
 		"CONDITION" => "#^/company/partners/#",
 		"RULE" => "",
 		"ID" => "bitrix:news",
 		"PATH" => "/company/partners/index.php",
 	),
 	array(
-		"CONDITION" => "#^/company/licenses/#",
+		"CONDITION" => "#^/o-kompanii/user/#",
 		"RULE" => "",
 		"ID" => "bitrix:news",
-		"PATH" => "/company/licenses/index.php",
+		"PATH" => "/o-kompanii/user/index.php",
+	),
+	array(
+		"CONDITION" => "#^/company/vacancy/#",
+		"RULE" => "",
+		"ID" => "bitrix:news",
+		"PATH" => "/company/vacancy/index.php",
 	),
 	array(
 		"CONDITION" => "#^/company/reviews/#",
@@ -37,22 +49,16 @@ $arUrlRewrite = array(
 		"PATH" => "/company/history/index.php",
 	),
 	array(
-		"CONDITION" => "#^/company/vacancy/#",
+		"CONDITION" => "#^/company/staff/#",
 		"RULE" => "",
 		"ID" => "bitrix:news",
-		"PATH" => "/company/vacancy/index.php",
+		"PATH" => "/company/staff/index.php",
 	),
 	array(
 		"CONDITION" => "#^/info/articles/#",
 		"RULE" => "",
 		"ID" => "bitrix:news",
 		"PATH" => "/info/articles/index.php",
-	),
-	array(
-		"CONDITION" => "#^/company/staff/#",
-		"RULE" => "",
-		"ID" => "bitrix:news",
-		"PATH" => "/company/staff/index.php",
 	),
 	array(
 		"CONDITION" => "#^/info/stock/#",
@@ -70,7 +76,7 @@ $arUrlRewrite = array(
 		"CONDITION" => "#^/services/#",
 		"RULE" => "",
 		"ID" => "bitrix:news",
-		"PATH" => "/gruppa_kompani/index.php",
+		"PATH" => "/services/index.php",
 	),
 	array(
 		"CONDITION" => "#^/projects/#",
@@ -88,7 +94,7 @@ $arUrlRewrite = array(
 		"CONDITION" => "#^/services/#",
 		"RULE" => "",
 		"ID" => "bitrix:news",
-		"PATH" => "/services/index.php",
+		"PATH" => "/gruppa_kompani/index.php",
 	),
 	array(
 		"CONDITION" => "#^/catalog/#",

@@ -1,6 +1,13 @@
 <?
 $aMenuLinks = Array(
 	Array(
+		"Сотрудники", 
+		"/o-kompanii/user/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
 		"Группа компаний", 
 		"/gruppa_kompani", 
 		Array(), 

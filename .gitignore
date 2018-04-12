@@ -3,3 +3,4 @@
 /upload/*
 /bitrix/cache/*
 /bitrix/managed_cache/*
+/bitrix/managed_cache/MYSQL/*

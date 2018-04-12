@@ -1,7 +1,7 @@
 <?
 if($INCLUDE_FROM_CACHE!='Y')return false;
-$datecreate = '001523527352';
-$dateexpire = '001559527352';
+$datecreate = '001523546685';
+$dateexpire = '001559546685';
 $ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:1:{s:5:"arRes";a:31:{i:0;a:58:{s:2:"ID";s:2:"56";s:3:"~ID";s:2:"56";s:11:"TIMESTAMP_X";s:19:"29.11.2016 09:23:54";s:12:"~TIMESTAMP_X";s:19:"29.11.2016 09:23:54";s:11:"MODIFIED_BY";s:1:"2";s:12:"~MODIFIED_BY";s:1:"2";s:11:"DATE_CREATE";s:19:"07.11.2016 05:34:12";s:12:"~DATE_CREATE";s:19:"07.11.2016 05:34:12";s:10:"CREATED_BY";s:1:"2";s:11:"~CREATED_BY";s:1:"2";s:9:"IBLOCK_ID";s:2:"10";s:10:"~IBLOCK_ID";s:2:"10";s:17:"IBLOCK_SECTION_ID";N;s:18:"~IBLOCK_SECTION_ID";N;s:6:"ACTIVE";s:1:"Y";s:7:"~ACTIVE";s:1:"Y";s:13:"GLOBAL_ACTIVE";s:1:"Y";s:14:"~GLOBAL_ACTIVE";s:1:"Y";s:4:"SORT";s:3:"500";s:5:"~SORT";s:3:"500";s:4:"NAME";s:39:"Кровельные материалы";s:5:"~NAME";s:39:"Кровельные материалы";s:7:"PICTURE";s:3:"253";s:8:"~PICTURE";s:3:"253";s:11:"LEFT_MARGIN";s:1:"9";s:12:"~LEFT_MARGIN";s:1:"9";s:12:"RIGHT_MARGIN";s:2:"36";s:13:"~RIGHT_MARGIN";s:2:"36";s:11:"DEPTH_LEVEL";s:1:"1";s:12:"~DEPTH_LEVEL";s:1:"1";s:11:"DESCRIPTION";s:1971:"<hr>
  Наша компания рада вам предложить, самый лучший материал, который будет отвечать всем вашим требованиям.
 <hr>
