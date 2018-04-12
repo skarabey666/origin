@@ -1,0 +1,1 @@
+<a href="tel:83952500050" rel="nofollow"><span>8 (3952)</span> 50-00-50</a><a href="tel:83952500030" rel="nofollow"><span>8 (3952)</span> 50-00-30</a>

@@ -25,4 +25,11 @@ u0037701_test4
 c4TTZncz
 u0037701_test4
 
-local://test4.megamir38.ru/
+
+база данных для test54.megamir38.ru/
+
+baseformmit
+
+usermmit1
+
+123

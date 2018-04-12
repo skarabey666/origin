@@ -1,0 +1,365 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201803 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.test6.1cbmmit.ru.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1996                
+POS_TIME 2668                
+POS_VISITOR 8080                
+POS_DAY 8738                
+POS_DOMAIN 3399                
+POS_LOGIN 3633                
+POS_ROBOT 3788                
+POS_WORMS 3995                
+POS_EMAILSENDER 4126                
+POS_EMAILRECEIVER 4269                
+POS_SESSION 9093                
+POS_SIDER 9266                
+POS_FILETYPES 4404                
+POS_DOWNLOADS 4898                
+POS_OS 5696                
+POS_BROWSER 5766                
+POS_SCREENSIZE 5971                
+POS_UNKNOWNREFERER 6045                
+POS_UNKNOWNREFERERBROWSER 6167                
+POS_ORIGIN 6284                
+POS_SEREFERRALS 6421                
+POS_PAGEREFS 6576                
+POS_SEARCHWORDS 6756                
+POS_KEYWORDS 6908                
+POS_MISC 2331                
+POS_ERRORS 6967                
+POS_CLUSTER 3489                
+POS_SIDER_404 7075                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180401075848 1 0 8557145768477
+FirstTime 20180301043033
+LastTime 20180327072717
+LastUpdate 20180401080218 1 0 0 0 0
+TotalVisits 19                  
+TotalUnique 13                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 14                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 24 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 17 18 500984507 0 2 5455
+2 6 6 73575 0 0 0
+3 0 0 0 0 0 0
+4 4 136 4154388 2 5 37454
+5 35 35 427609 11 13 735946145
+6 6 6 20872 0 2 20376
+7 57 264 5552829 3 16 231839
+8 15 183 5524463 1 19 273126
+9 40 161 4873196 3 15 215131
+10 2 76 600217 2 2 11642
+11 23 296 4776319 1 8 90393
+12 64 70 203268 0 0 0
+13 71 128 707742 12 19 1251588273
+14 53 143 1079909506 12 30 4333841531
+15 116 130 707762 22 26 606013197
+16 7 7 40 0 0 0
+17 28 191 403566926 1 4 26131
+18 17 187 106530176 2 5 25822
+19 71 74 2125311152 18 23 1739665727
+20 34 34 290533 0 4 54741
+21 0 0 0 0 0 0
+22 0 0 0 0 0 0
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 666 2145 4244215080
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 2
+no_user_agent 98 8666626231 20180327072654 0
+yandex 4 100 20180331142915 4
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 23
+css 315 1208022 0 0
+tar 1 599625728 0 0
+11 1 71529283 0 0
+7 1 104860079 0 0
+woff2 9 580176 0 0
+2 4 272719682 0 0
+php 568 3891235 0 0
+1 5 528019346 0 0
+html 58 1191760 0 0
+jpg 268 13537870 0 0
+gz 5 1332337359 0 0
+6 1 104889316 0 0
+eot 3 139832 0 0
+png 261 16754292 0 0
+3 4 320550689 0 0
+9 1 50201776 0 0
+8 1 40492749 0 0
+4 4 352494580 0 0
+js 572 4024372 0 0
+jpeg 9 499232 0 0
+10 1 71928042 0 0
+gif 48 115549 0 0
+5 5 352624111 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 10
+/bitrix/backup/bais.megamir38.ru_20180322_143216_full_7fb01b35.tar 7 0 4197380096
+/bitrix/backup/bais.megamir38.ru_20180322_134932_full_7639f595.tar.gz 5 0 295463802
+/robots.txt 4 0 100
+/bitrix/backup/bais.megamir38.ru_20180322_193810_full_b9815364.tar.gz 3 0 196993517
+/bitrix/backup/bais.megamir38.ru_20180322_122506_full_3d491846.tar.gz 2 0 98503808
+/bitrix/backup/bais.megamir38.ru_20180322_133756_full_eb8b38d3.tar.gz 2 0 417165553
+/bitrix/backup/20180326_074748_16771972.enc.gz 2 0 203757294
+/bitrix/backup/bais.megamir38.ru_20180323_051310_full_36d9f335.tar.gz 2 0 98505194
+/bitrix/backup/bais.megamir38.ru_20180322_153343_full_2c976f06.tar.gz 2 0 228474691
+/bitrix/backup/bais.megamir38.ru_20180322_192429_full_92af4698.tar.gz 1 0 931645376
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 3
+winnt 1035
+Unknown 1
+win7 1109
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 8
+chrome64.0.3282.186 1140
+msie8.0 129
+chrome63.0.3239.132 344
+firefox54.0 90
+chrome62.0.3202.94 77
+Unknown 1
+chrome58.0.3029.110 56
+chrome65.0.3325.181 308
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+Bitrix_link_preview 20180323080348
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Bitrix_link_preview 20180323080348
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 25 25
+From1 0 0
+From2 4 4
+From3 1 1
+From4 636 2115
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+yandex 4 4
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://away.vk.com/away.php 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+302 1 0
+301 3 963
+404 63 1289369
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 10
+/logo.png 2 -
+/bitrix/backup/bais.megamir38.ru_20180322_122506_full_3d491846.tar.gz.6 1 -
+/upload/iblock/c62/c623e3b7c4aa0ff6f107978e1e53c533.png 26 http://test6.1cbmmit.ru/
+/bitrix/backup/bais.megamir38.ru_20180322_134932_full_7639f595.tar.gz.6 1 -
+/bitrix/backup/bais.megamir38.ru_20180322_143216_full_7fb01b35.tar.1 1 -
+/bitrix/backup/bais.megamir38.ru_20180322_153343_full_2c976f06.tar.gz.2 1 -
+/catalog/krovelnye-materialy/ 3 http://yandex.ru/clck/jsredir
+/upload/iblock/ddc/ddc3f569718890517c5a483a22657d40.png 26 http://test6.1cbmmit.ru/
+/bitrix/backup/bais.megamir38.ru_20180322_143216_full_7fb01b35.tar.gz 1 -
+/bitrix/backup/bais.megamir38.ru_20180323_051310_full_36d9f335.tar.gz.6 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 14
+37.20.210.125 536 889 3213463059 20180323094738
+194.190.85.141 59 344 5298226 20180327072717
+141.105.42.54 52 218 1006600388 20180327020706
+90.188.238.104 4 180 7664165 20180322092249
+37.20.133.4 2 90 3832083 20180310183951
+188.255.119.127 2 46 322306 20180306045415
+188.32.190.177 2 29 265168 20180305103722
+77.37.168.184 2 54 373371 20180307180520
+178.184.159.62 2 90 3832083 20180322145808
+46.188.106.108 2 30 349257 20180307185831
+195.46.119.252 1 71 1398071 20180302082240
+95.84.128.167 1 56 388193 20180309132548
+94.180.193.80 0 47 335049 
+46.235.53.149 1 1 93661 20180323080348
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 12
+20180301 2 90 3832082 1
+20180302 1 71 1398071 1
+20180305 2 29 265168 1
+20180306 2 46 322306 1
+20180307 4 84 722628 2
+20180308 0 47 335049 0
+20180309 1 56 388193 1
+20180310 2 90 3832083 1
+20180322 447 814 3215264980 3
+20180323 94 256 5955906 3
+20180326 84 534 510798828 3
+20180327 27 28 501099786 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+1h+ 3
+0s-30s 11
+30s-2mn 1
+30mn-1h 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 54
+/bitrix/tools/public_session.php 152 551 0 3
+/bitrix/admin/dump.php 116 924105 0 2
+/bitrix/admin/dump_list.php 88 1272401 1 0
+/bitrix/admin/site_checker.php 66 90717 0 0
+/bitrix/admin/user_options.php 46 1012 0 0
+/ 28 712652 12 2
+/bitrix/admin/fileman_admin.php 26 548671 0 0
+/bitrix/admin/get_menu.php 10 12453 0 0
+/bitrix/admin/index.php 10 198468 0 2
+/bitrix/gadgets/bitrix/rssreader/getdata.php 9 2991 0 0
+/bitrix/ 8 664 3 0
+/catalog/ 5 155536 0 1
+/bitrix/backup/bais.megamir38.ru_20180322_192429_full_92af4698.tar.gz.1 1 130842866 0 0
+/bitrix/backup/bais.megamir38.ru_20180322_193810_full_b9815364.tar.gz.6 1 104889316 0 0
+/galereya/ 5 75985 2 1
+/bitrix/backup/bais.megamir38.ru_20180322_193810_full_b9815364.tar.gz.9 1 50201776 0 0
+/bitrix/admin/dump_auto.php 3 104279 0 0
+/bitrix/admin/fileman_component_params.php 5 47554 0 0
+/bitrix/admin/iblock_templates.ajax.php 4 2790 0 0
+/bitrix/backup/bais.megamir38.ru_20180322_193810_full_b9815364.tar.gz.4 1 104887169 0 0
+/bitrix/backup/bais.megamir38.ru_20180322_134932_full_7639f595.tar.gz.2 1 33854416 0 0
+/bitrix/templates/aspro-stroy/vendor/flexslider/fonts/flexslider-icon.eot 1 2082 0 1
+/bitrix/backup/bais.megamir38.ru_20180322_134932_full_7639f595.tar.gz.4 1 73929363 0 0
+/bitrix/backup/20180326_074748_16771972.enc.gz.2 2 134154396 0 0
+/bitrix/admin/public_file_edit.php 5 121982 0 0
+/bitrix/admin/sql.php 4 44664 0 2
+/bitrix/backup/bais.megamir38.ru_20180322_193810_full_b9815364.tar.gz.5 1 104889453 0 0
+/bitrix/backup/bais.megamir38.ru_20180322_193810_full_b9815364.tar.gz.8 1 40492749 0 0
+/bitrix/backup/bais.megamir38.ru_20180322_193810_full_b9815364.tar.gz.1 1 100831745 0 0
+/bitrix/backup/20180326_074748_16771972.enc.gz.5 2 129808664 0 0
+/bitrix/admin/bitrixcloud_backup.php 2 60454 0 0
+/bitrix/admin/iblock_element_edit.php 5 208356 0 0
+/bitrix/tools/autosave.php 2 60 0 0
+/bitrix/backup/20180326_074748_16771972.enc.gz.3 2 159924930 0 0
+/bitrix/backup/bais.megamir38.ru_20180322_134932_full_7639f595.tar.gz.5 2 117925994 0 0
+/bitrix/templates/aspro-stroy/css/fonts/font-awesome/fonts/fontawesome-webfont.eot 2 137750 1 1
+/bitrix/backup/bais.megamir38.ru_20180322_134932_full_7639f595.tar.gz.3 1 55843851 0 0
+/bitrix/backup/bais.megamir38.ru_20180322_193810_full_b9815364.tar.gz.2 1 104710870 0 0
+/catalog/krovelnye-materialy/ 2 67146 0 0
+/specpredlozheniya/ 3 42212 0 0
+/bitrix/backup/20180326_074748_16771972.enc.gz.1 2 200248654 0 0
+/bitrix/backup/bais.megamir38.ru_20180322_193810_full_b9815364.tar.gz.10 1 71928042 0 0
+/bitrix/admin/component_props.php 1 11518 0 0
+/bitrix/admin/phpinfo.php 1 107039 0 0
+/bitrix/admin/ 7 137565 0 0
+/bitrix/backup/bais.megamir38.ru_20180322_193810_full_b9815364.tar.gz.3 1 104781908 0 0
+/bitrix/templates/aspro-stroy/css/fonts/font-awesome/fonts/fontawesome-webfont.woff2 9 580176 0 4
+/bitrix/gadgets/aspro/stroy/ajax.php 9 1368 0 0
+/bitrix/backup/bais.megamir38.ru_20180322_134932_full_7639f595.tar.gz.1 1 96096081 0 0
+/bitrix/admin/site_admin.php 1 31234 0 0
+/bitrix/backup/bais.megamir38.ru_20180322_193810_full_b9815364.tar.gz.11 1 71529283 0 0
+/bitrix/admin/event_log.php 3 98568 0 0
+/bitrix/backup/20180326_074748_16771972.enc.gz.4 2 173678048 0 0
+/bitrix/backup/bais.megamir38.ru_20180322_193810_full_b9815364.tar.gz.7 1 104860079 0 0
+END_SIDER

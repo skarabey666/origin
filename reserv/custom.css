@@ -1,0 +1,13 @@
+/* CSS kod pishite v etom faile, chotobi pri ustanovke obnovlenii ne bilo problem  */
+/* --------------------------------------- */
+/* Here you can put custom css rules for your site */
+
+#footer .email a {
+    margin-left: 0%;
+}
+.main2 .color_block{
+    padding-bottom: 390px;
+}
+.sort{
+display: none !important;
+}

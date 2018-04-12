@@ -1,0 +1,46 @@
+/* CSS kod pishite v etom faile, chotobi pri ustanovke obnovlenii ne bilo problem  */
+/* --------------------------------------- */
+/* Here you can put custom css rules for your site */
+
+#footer .email a {
+    margin-left: 0%;
+}
+.main2 .color_block{
+    padding-bottom: 390px;
+}
+.sort{
+display: none !important;
+}
+.mega-menu table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    max-width: 100%;
+    background-color: #af1c11;
+ }
+.btn-default.white {
+    color: black;
+}
+.menu-row {
+    position: relative;
+    z-index: -10;
+}
+.logo_and_menu-row > .row{
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 28px;
+    position: static;
+    height: 50px;
+}
+.search {
+    background: none repeat scroll 0 0 #e0e7ea !important;
+    border: medium none;
+    box-shadow: 0 1px 0px rgba(0, 0, 0, 0.1);
+    height: 75px;
+    padding: 30px 0;
+    /* position: absolute; */
+    right: 0;
+    top: 60px;
+    width: 100%;
+    z-index: 9;
+}
