@@ -2,3 +2,4 @@
 /bitrix/components/bitrix/*
 /bitrix/components/upload/*
 /bitrix/components/cache/*
+/bitrix/components/managed_cache/*
